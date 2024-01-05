@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: red;
+}
+
+h1 {
+    text-align: center;
+    font-family: Trattatello fantasy;
+}
+
+nav {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.contacts {
+    margin-right: 250px;
+}
+
+.help {
+    margin-right: 250px;
+}
+
+main h1 {
+    background-color: lightcoral;
+    color: white;
+    font-family: URW Chancery L cursive;
+}
+
+h2 {
+    font-family: Brush Script MT Brush Script Std cursive;
+    background-color: plum;
+}
+
+ul {
+    background-color: plum;
+}
+
+footer {
+    background-color: darkred;
+    color: white;
+}
